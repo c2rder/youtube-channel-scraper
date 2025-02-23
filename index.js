@@ -35,6 +35,6 @@ async function youtubeVideoLinks(channelId, apiKey, maxResults = 50) {
   }
 }
 
-const channelId = 'UCjpcHM47hRe2TCA6symePng'; // channel id
-const apiKey = 'AIzaSyBK_vc_iyx-FE6GwwdKIKvyiFD8oHcD9Io'; // youtube api
+const channelId = ''; // channel id
+const apiKey = ''; // youtube api
 youtubeVideoLinks(channelId, apiKey);
